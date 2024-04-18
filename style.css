@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+   margin: 0;
+   height: 100vh;
+   background: #003c43;
+   color: white;
+}
+
+h1 {
+   font-family: 'Bebas Neue';
+   font-size: 30rem;
+   text-align: center;
+   opacity: 0.1;
+   margin: 12% 0 0 0;
+}
+
+.progress {
+   background-color: #77b0aa;
+   height: 3px;
+   width: 0;
+   position: absolute;
+   top: 50%;
+}
